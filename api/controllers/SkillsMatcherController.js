@@ -9,7 +9,10 @@ exports.jobs = async (req, res) => {
 
     for(var skill of skills) {
         const {data} = await axios.get(`https://jobs.github.com/positions.json?description=${skill}&location=${location}`);
-        positions.push(data)
+        positions = [
+            ...positions,
+            ...data
+        ]
     }
 
     res.json(positions);
