@@ -1,48 +1,47 @@
 [
     {
-        "title": "Javascript Course",
-        "location": "North East England, UK",
-        "type": "Online",
-        "cost": "Free",
-        "company": "pluralsight",
-        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
-        "url": "https://www.pluralsight.com/paths/javascript"
+        "title": "JavaScript Essentials",
+        "location": "Newcastle upon Tyne",
+        "type": "Class Taught",
+        "cost": "£349.99",
+        "company": "The Web Design Academy",
+        "company_logo": "http://th.bsdacademy.com/wp-content/uploads/2017/02/Logo_Website.png",
+        "url": "https://javascript-training-courses.co.uk/essentials/"
     },
     {
-        "title": "Javascript Tutorial",
-        "location": "North East England, UK",
-        "type": "Online",
-        "cost": "Free",
-        "company": "W3Schools",
-        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
-        "url": "https://www.w3schools.com/jS/default.asp"
+        "title": "Web and Mobile Development Technologies",
+        "location": "Newcastle upon Tyne",
+        "type": "Part Time Degree",
+        "cost": "£7650.00",
+        "company": "Northumbra University",
+        "company_logo": "https://www.edemsimulation.com/content/uploads/2016/03/Northumbria-University-logo.png",
+        "url": "http://london.northumbria.ac.uk/course/msc-web-and-mobile-development-technologies-part-time/"
     },
     {
-        "title": "JavaScript Info",
-        "location": "North East England, UK",
-        "type": "Online",
-        "cost": "£200.00",
-        "company": "JavaScript Info",
-        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
-        "url": "https://javascript.info/"
+        "title": "Web Development 1 with HTML, CSS and JavaScript",
+        "location": "Durham or Sunderland",
+        "type": "Classroom Based",
+        "cost": "£1895.00",
+        "company": "Respect Training Solutions",
+        "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgFhjHimyqP6FLNa7-zHTQcS67p3yrn8-cNkyV7p5EAlml923",
+        "url": "http://www.ittrainingsolutions.co.uk/html-javascript-web-site-training-courses-north-east-newcastle/html-javascript-website-training-courses-durham-sunderland-gateshead.asp"
     },
     {
-        "title": "JavaScript Basics",
-        "location": "North East England, UK",
-        "type": "Online",
-        "cost": "Free",
-        "company": "MDN Web Docs",
-        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
-        "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
+        "title": "Modern JavaScript From The Beginning",
+        "location": "Online",
+        "type": "Online Lectures",
+        "cost": "£9.99",
+        "company": "Udemy",
+        "company_logo": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg",
+        "url": "https://www.udemy.com/modern-javascript-from-the-beginning/"
     },
     {
-        "title": "Javascript Tutorial Basics",
-        "location": "North East England, UK",
-        "type": "Online",
+        "title": "Master Vue.js",
+        "location": "Online",
+        "type": "Online Interactive",
         "cost": "Free",
-        "company": "Geeks for Geeks",
-        "company_logo": "https://www.geeksforgeeks.org/wp-content/uploads/GeeksforGeeksLogoHeader.png",
-        "url": "https://www.geeksforgeeks.org/javascript-tutorial/"
+        "company": "Vue School",
+        "company_logo": null,
+        "url": "https://vueschool.io/"
     }
-    
 ]
