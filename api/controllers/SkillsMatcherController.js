@@ -1,10 +1,20 @@
 var axios = require('axios');
+var opportunities = require('../resources/Schema.json')
 
 exports.jobs = async (req, res) => {
-    var skill = req.params.skill
+    var skills = Object.keys(req.body.skills)
     var location = "london"
 
-    const {data} = await axios.get(`https://jobs.github.com/positions.json?description=${skill}&location=${location}`);
+    var positions = []
 
-    res.json(data);
+    for(var skill of skills) {
+        const {data} = await axios.get(`https://jobs.github.com/positions.json?description=${skill}&location=${location}`);
+        positions.push(data)
+    }
+
+    res.json(positions);
+}
+
+exports.opportunities = async (req, res) => {
+    res.json(opportunities);
 }
