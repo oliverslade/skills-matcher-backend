@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Javascript Course",
+        "location": "North East England, UK",
+        "type": "Online",
+        "cost": "Free",
+        "company": "pluralsight",
+        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
+        "url": "https://www.pluralsight.com/paths/javascript"
+    },
+    {
+        "title": "Javascript Tutorial",
+        "location": "North East England, UK",
+        "type": "Online",
+        "cost": "Free",
+        "company": "W3Schools",
+        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
+        "url": "https://www.w3schools.com/jS/default.asp"
+    },
+    {
+        "title": "JavaScript Info",
+        "location": "North East England, UK",
+        "type": "Online",
+        "cost": "£200.00",
+        "company": "JavaScript Info",
+        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
+        "url": "https://javascript.info/"
+    },
+    {
+        "title": "JavaScript Basics",
+        "location": "North East England, UK",
+        "type": "Online",
+        "cost": "Free",
+        "company": "MDN Web Docs",
+        "company_logo": "https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fwww.pluralsight.com%2Fcontent%2Fdam%2Fpluralsight%2Fnewsroom%2Fbrand-assets%2Flogos%2Fpluralsight-logo-hor-color-1%402x.png&imgrefurl=https%3A%2F%2Fwww.pluralsight.com%2Fnewsroom%2Fbrand-assets&docid=UMseUWqqgyGmEM&tbnid=ehH4evxZt5LIoM%3A&vet=10ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA..i&w=360&h=190&safe=strict&bih=662&biw=1366&q=pluralsight%20logo%20url&ved=0ahUKEwjF66m34OTbAhWFe8AKHTM_DUoQMwg6KAAwAA&iact=mrc&uact=8",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
+    },
+    {
+        "title": "Javascript Tutorial Basics",
+        "location": "North East England, UK",
+        "type": "Online",
+        "cost": "Free",
+        "company": "Geeks for Geeks",
+        "company_logo": "https://www.geeksforgeeks.org/wp-content/uploads/GeeksforGeeksLogoHeader.png",
+        "url": "https://www.geeksforgeeks.org/javascript-tutorial/"
+    }
+    
+]

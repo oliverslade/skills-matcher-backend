@@ -1,5 +1,5 @@
 var axios = require('axios');
-var opportunities = require('../resources/Schema.json')
+var opportunities = require('../resources/opportunities.json')
 
 exports.jobs = async (req, res) => {
     var skills = Object.keys(req.body.skills)
